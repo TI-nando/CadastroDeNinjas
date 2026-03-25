@@ -31,5 +31,4 @@ public class NinjaModel {
     @JoinColumn(name = "missoes_id") // Foreing Key ou Chave estrangeira.
     private MissoesModel missoes;
 
-    private String corDoOlho;
 }
