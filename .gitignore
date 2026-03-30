@@ -31,5 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
-
 .env
+src/test/java/dev/java10x/CadastrosDeNinjas/ApplicationTests.java
