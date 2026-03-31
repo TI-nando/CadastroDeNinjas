@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 import java.util.List;
 
 @Entity
-@Table (name = "tb_missoes")
+@Table(name = "tb_missoes")
 @Data // Criar gets e sets automaticamente
 @NoArgsConstructor // Para contrutores vazios
 @AllArgsConstructor // Para contrutores cheios

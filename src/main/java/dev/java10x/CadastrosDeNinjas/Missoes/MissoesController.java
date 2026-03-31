@@ -10,7 +10,7 @@ public class MissoesController {
 
     //GET -- Mandar uma requisiçãp para CRIAR as missoes.
     @GetMapping("/listar")
-    public String listarMissoes () {
+    public String listarMissoes() {
         return "Missões listadas com sucesso";
     }
 
